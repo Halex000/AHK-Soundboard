@@ -13,7 +13,7 @@ How to set up the soundboard (all software is free):
 	and add the name of the audio file to the Sounds.tsb file like it explains there.
 
 	Any sound file type that is playable in windows should work in the soundboard however 
-	I prefer .wav files as that format was created with windows support in mind.\
+	I prefer .wav files as that format was created with windows support in mind.
 
 	Finding the audio files is up to you, however if you google "youtube to wav converter"
 	there are many websites that can pull audio from youtube and convert it into a wav file.
