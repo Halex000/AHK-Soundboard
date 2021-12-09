@@ -35,6 +35,7 @@ Setup in windows:
 	Soundboard output: virtual audio cable input
 
 Setup in Voicemeeter:
+
 		channel A (main out) is what you will hear
 		channel B (virtual out) is what others will hear from you
 
