@@ -2,7 +2,7 @@ Soundboard autohotkey script created by Halex. Free to use and edit. Guide on ho
 
 How to set up the soundboard (all software is free):
 
-	Unzip this folder and leave the .Soundboard.ahk, Sounds.tsb, and the audio files for the sounds in the same unzipped folder.
+	Download this folder and leave the .Soundboard.ahk, Sounds.tsb, and the audio files for the sounds in the same folder.
 
 	DOWNLOAD Voicemeeter: https://vb-audio.com/Voicemeeter/
 	DOWNLOAD virtual audio cable: https://vb-audio.com/Cable/index.htm
